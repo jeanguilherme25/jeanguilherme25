@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Jean Guilherme!
 
-🎓 Estudante de **engenharia de software**  
+🎓 Estudante de **Sistemas de Informação**  
 💻 Apaixonado por **tecnologia, programação e desenvolvimento de software**  
 🚀 Atualmente aprendendo: **Java, SQL e Engenharia de Software**  
 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com) | [E-mail](mailto:seuemail@gmail.com)
@@ -33,3 +33,4 @@
 ---
 
 ⭐ **Obrigado por visitar meu perfil!**
+
